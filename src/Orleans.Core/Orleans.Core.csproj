@@ -1,5 +1,6 @@
 <Project Sdk="Microsoft.NET.Sdk">
-  <PropertyGroup>
+      
+	<PropertyGroup>
     <PackageId>Microsoft.Orleans.Core</PackageId>
     <Title>Microsoft Orleans Core Library</Title>
     <Description>Core library of Microsoft Orleans used both on the client and server.</Description>
